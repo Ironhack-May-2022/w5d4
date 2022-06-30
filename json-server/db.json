@@ -1,0 +1,29 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "indiana jones",
+      "director": "spielberg"
+    },
+    {
+      "id": 2,
+      "title": "inception",
+      "director": "nolan"
+    },
+    {
+      "title": "ex machina",
+      "director": "garland",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
